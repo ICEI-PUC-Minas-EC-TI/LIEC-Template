@@ -9,8 +9,6 @@
 `DISCIPLINA`
 
 
-Resumo - Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
-
 ## Integrantes
 
 * Nome completo do aluno 1
@@ -23,14 +21,18 @@ Resumo - Descrever resumidamente, em um ou dois parágrafos, o projeto que está
 
 * Nome completo do professor 1
 
+## Resumo
+
+Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 # Código (do arduino ou esp32)
 
-<li><a href="código/README.md"> Código Fonte</a></li>
+<li><a href="código/README.md"> Código Fonte (.ino)</a></li>
 
 # Projeto do App Inventor (.aia e .apk)
 
-<li><a href="app/README.md> Aplicativo</a></li>
+<li><a href="app/README.md"> Aplicativo (.aia)</a></li>
+<li><a href="app/README.md"> Aplicativo (.apk)</a></li>
 
 # Apresentação
 
