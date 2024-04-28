@@ -10,8 +10,6 @@ Descreva aqui como foi o desenvolvimento do trabalho, destacando cada uma das et
 
 ## Desenvolvimento do Aplicativo
 
-Descreva o desenvolvimento do Aplicativo.
-
 ### Interface
 
 Descreva o desenvolvimento das telas do aplicativo.
