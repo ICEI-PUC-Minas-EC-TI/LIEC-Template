@@ -1,6 +1,5 @@
 cff-version: 1.0.1
-message: Please cite this project using these metadata.
-title: 
+message: "Please cite this project using these metadata."
 authors:
   - family-names: 
     given-names: 
@@ -14,14 +13,12 @@ authors:
     given-names: 
   - family-names: 
     given-names:
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: 
+  - name-suffix: "Professor"
     given-names: 
-keywords:
-  - 
-  - 
-repository-code: 
-license: CC-BY-4.0
+    family-names:
+    affiliation: "PUC Minas"
+title: ""
 version: 1.0.0
-date-released: 2022-07-14
+date-released: 2024-01-14
+url: ""
+
