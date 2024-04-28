@@ -1,7 +1,8 @@
 
 # Materiais
 
-Descreva os materiais utilizados para desenvolvimento do projeto
+Os materiais utilizados no projeto foram:
+- Liste os materiais usados no projeto, como Arduino/ESP, sensores, atuadores e outros.
 
 # Desenvolvimento
 
