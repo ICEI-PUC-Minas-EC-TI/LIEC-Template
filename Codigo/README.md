@@ -1,3 +1,3 @@
-# Código do Projeto
+# Código do Arduino/ESP
 
-Mantenha neste diretório todo o código do projeto. Se necessário, descreva neste arquivo aspectos relevantes da estrutura de diretórios criada para organização do código.
+Mantenha neste diretório todo o código do Arduino ou ESP. Para isso, salve aqui o arquivo .ino.

@@ -29,10 +29,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 <li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
 
-# Projeto do App Inventor (.aia e .apk)
+# Aplicativo para Smartphone
 
-<li><a href="App/README.md"> Aplicativo (.aia)</a></li>
-<li><a href="App/README.md"> Aplicativo (.apk)</a></li>
+<li><a href="App/README.md"> Aplicativo </a></li>
 
 # Apresentação
 
@@ -42,7 +41,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 </ol>
 
 # Manual de Utilização
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
 <li><a href="Manual/manual de utilização.md"> Manual de Utilização</a></li>
 
 
