@@ -27,33 +27,33 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 # Código (do arduino ou esp32)
 
-<li><a href="código/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
 
 # Projeto do App Inventor (.aia e .apk)
 
-<li><a href="app/README.md"> Aplicativo (.aia)</a></li>
-<li><a href="app/README.md"> Aplicativo (.apk)</a></li>
+<li><a href="App/README.md"> Aplicativo (.aia)</a></li>
+<li><a href="App/README.md"> Aplicativo (.apk)</a></li>
 
 # Apresentação
 
 <ol>
-<li><a href="apresentação/README.md"> Vídeo do Funcionamento</a></li>
-<li><a href="apresentação/README.md"> Fotos do Projeto</a></li>
+<li><a href="Apresentação/README.md"> Vídeo do Funcionamento</a></li>
+<li><a href="Apresentação/README.md"> Fotos do Projeto</a></li>
 </ol>
 
 # Manual de Utilização
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-<li><a href="manual/README.md"> Manual de Utilização</a></li>
+<li><a href="Manual/manual de utilização.md"> Manual de Utilização</a></li>
 
 
 # Documentação
 
 <ol>
-<li><a href="docs/01-Introducão.md"> Introdução</a></li>
-<li><a href="docs/02-Desenvolvimento.md"> Desenvolvimento </a></li>
-<li><a href="docs/03-Metodologias Ágeis.md"> Metodologias Ágeis</a></li>
-<li><a href="docs/04-Testes.md"> Testes </a></li>
-<li><a href="docs/05-Conclusão.md"> Conclusão </a></li>
-<li><a href="docs/06-Referências.md"> Referências </a></li>
+<li><a href="Documentacao/01-Introducão.md"> Introdução</a></li>
+<li><a href="Documentacao/02-Desenvolvimento.md"> Desenvolvimento </a></li>
+<li><a href="Documentacao/03-Metodologias Ágeis.md"> Metodologias Ágeis</a></li>
+<li><a href="Documentacao/04-Testes.md"> Testes </a></li>
+<li><a href="Documentacao/05-Conclusão.md"> Conclusão </a></li>
+<li><a href="Documentacao/06-Referências.md"> Referências </a></li>
 </ol>
 
